@@ -1,7 +1,7 @@
 # sentiment-analysis-with-logistic-regression-in-pyspark
-Training the Logistic regression model with two dataset from kaggle
-amazon: https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews?resource=download
-twitter: https://www.kaggle.com/datasets/kazanova/sentiment140
+# Training the Logistic regression model with two dataset from kaggle
+# amazon: https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews?resource=download
+# twitter: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 Training and processing in the spark data frame to save time and memory.
 
